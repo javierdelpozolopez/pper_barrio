@@ -1,0 +1,9 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+
+.field__label{
+    font-size: 14px;
+    text-transform: uppercase;
+}
